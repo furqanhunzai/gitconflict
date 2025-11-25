@@ -1,1 +1,1 @@
-app v1
+App version:1.0
